@@ -1,0 +1,3 @@
+Model,Silhouette Score,Sample Size,Distance Measure
+K-Means,0.15201025433284704,93022,Squared Euclidean
+Agglomerative Hierarchical,0.23130413268329492,2000,Euclidean

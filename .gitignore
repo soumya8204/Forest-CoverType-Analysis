@@ -1,0 +1,18 @@
+# Dataset
+covtype.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Temporary files
+*.log
+*.tmp
+
+# Spark temporary folders
+spark-warehouse/
+metastore_db/
