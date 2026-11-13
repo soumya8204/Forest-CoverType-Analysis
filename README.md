@@ -143,7 +143,7 @@ Because the dataset is imbalanced, classification accuracy is considered alongsi
 Forest-CoverType-Analysis/
 │
 ├── main.py
-├── save_outputs.py
+├── outputs.py
 ├── covtype.csv
 ├── README.md
 │
